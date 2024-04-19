@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837814363896",
+    "project_id": "flutter-jobhub-app",
+    "storage_bucket": "flutter-jobhub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837814363896:android:bb6942f6d8fcc90320bd0d",
+        "android_client_info": {
+          "package_name": "com.dbestech.jobhubv2_0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQLT4eFcHTTlVwscpTATdQngr0pDE1zfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
